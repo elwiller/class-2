@@ -7,7 +7,10 @@ body {
 }
 
 header {
-    color: #333333;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
 }
 
 h1 {
@@ -35,17 +38,18 @@ a {
 }
 
 #bio-image {
+    height: 200px;
     width: 200px;
-    margin: 10px;
 }
 
 #main-bio {
-    width: 70%;
+    width: 50%;
+    margin: 10px;
 }
 
 #contact-info {
-    width: 30%;
     line-height: 1.5em;
+    margin-left: 75%;
 }
 
 
