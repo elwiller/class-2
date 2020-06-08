@@ -29,8 +29,7 @@ a {
 }
 
 .container {
-    width: 1024px;
-    margin: 0 auto;    
+    margin: 20px;    
 }
 
 #main-bio, #contact-info, #bio-image {
@@ -44,12 +43,12 @@ a {
 
 #main-bio {
     width: 50%;
-    margin: 10px;
+    margin: 20px;
 }
 
 #contact-info {
     line-height: 1.5em;
-    margin-left: 75%;
+    margin: 20px;
 }
 
 
